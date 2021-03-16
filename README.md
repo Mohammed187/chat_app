@@ -1,6 +1,10 @@
 # chat_app
 
-A new Flutter application.
+Simple Chat app design with Flutter - 2 Screens, Just for practice ;).
+
+# Screenshots 
+
+<img src="https://github.com/Mohammed187/chat_app/blob/master/main_screen.png" height="500"> <img src="https://github.com/Mohammed187/chat_app/blob/master/chat_screen.png" height="500">
 
 ## Getting Started
 
